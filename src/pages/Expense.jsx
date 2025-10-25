@@ -1,7 +1,7 @@
 const Expense = () =>{
     return (
         <div>
-            Expense
+            Expenses
         </div>
     )
 }
